@@ -28,7 +28,11 @@ This repository contains my **Linked List practice tasks** implemented in **C++*
 ## ⚙️ Language Used
 - **C++**
 
----
-
 ## 💡 Purpose
-These tasks were created to unde
+These tasks were created to understand linked list concepts in C++.
+
+## 🚀 How to Run
+1. Clone repository:
+```bash
+git clone https://github.com/Emaan-Ahmed.git
+cd Emaan-Ahmed
